@@ -101,8 +101,8 @@ public class COTSTalonFXSwerveConstants {
 
         /** West Coast Products - SwerveX Flipped*/
         public static final class SwerveXFlipped{
-            /** West Coast Products - SwerveX Flipped (Falcon 500)*/
-            public static final COTSTalonFXSwerveConstants Falcon500(double driveGearRatio){
+            /** West Coast Products - SwerveX Flipped (Kraken mk4i)*/
+            public static final COTSTalonFXSwerveConstants Kraken mk4i(double driveGearRatio){
                 double wheelDiameter = Units.inchesToMeters(4.0);
         
                 /** (468 / 35) : 1 */
@@ -170,8 +170,8 @@ public class COTSTalonFXSwerveConstants {
     public static final class SDS {
         /** Swerve Drive Specialties - MK3 Module*/
         public static final class MK3{
-            /** Swerve Drive Specialties - MK3 Module (Falcon 500)*/
-            public static final COTSTalonFXSwerveConstants Falcon500(double driveGearRatio){
+            /** Swerve Drive Specialties - MK3 Module (Kraken mk4i)*/
+            public static final COTSTalonFXSwerveConstants Kraken mk4i(double driveGearRatio){
                 double wheelDiameter = Units.inchesToMeters(4.0);
         
                 /** 12.8 : 1 */
@@ -214,8 +214,8 @@ public class COTSTalonFXSwerveConstants {
     
         /** Swerve Drive Specialties - MK4 Module*/
         public static final class MK4{
-            /** Swerve Drive Specialties - MK4 Module (Falcon 500)*/
-            public static final COTSTalonFXSwerveConstants Falcon500(double driveGearRatio){
+            /** Swerve Drive Specialties - MK4 Module (Kraken mk4i)*/
+            public static final COTSTalonFXSwerveConstants Kraken mk4i(double driveGearRatio){
                 double wheelDiameter = Units.inchesToMeters(4.0);
         
                 /** 12.8 : 1 */
